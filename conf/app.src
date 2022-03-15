@@ -1,7 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://forge.chapril.org/fredtempez/ZwiiCMS/archive/11305.tar.gz
+SOURCE_SUM=b2bf84ac87da8abcc3f3f6447cfc7a7bd478c61e8f73bf443f13897dab3ac81c
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
-SOURCE_FILENAME=
-SOURCE_EXTRACT=true
